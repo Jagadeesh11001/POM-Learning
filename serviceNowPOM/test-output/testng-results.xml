@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="1653" started-at="2024-09-23T00:16:02Z" finished-at="2024-09-23T00:16:04Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="1653" started-at="2024-09-23T00:16:02Z" finished-at="2024-09-23T00:16:04Z">
+      <class name="utils.MyTest">
+        <test-method status="PASS" signature="startTest()[pri:0, instance:utils.MyTest@4567f35d]" name="startTest" is-config="true" duration-ms="931" started-at="2024-09-23T00:16:01Z" finished-at="2024-09-23T00:16:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method status="PASS" signature="setData()[pri:0, instance:utils.MyTest@4567f35d]" name="setData" is-config="true" duration-ms="0" started-at="2024-09-23T00:16:02Z" finished-at="2024-09-23T00:16:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setData -->
+        <test-method status="PASS" signature="createTest()[pri:0, instance:utils.MyTest@4567f35d]" name="createTest" is-config="true" duration-ms="226" started-at="2024-09-23T00:16:02Z" finished-at="2024-09-23T00:16:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createTest -->
+        <test-method status="PASS" signature="myTest()[pri:0, instance:utils.MyTest@4567f35d]" name="myTest" duration-ms="47" started-at="2024-09-23T00:16:02Z" finished-at="2024-09-23T00:16:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest -->
+        <test-method status="PASS" signature="stopTest()[pri:0, instance:utils.MyTest@4567f35d]" name="stopTest" is-config="true" duration-ms="1326" started-at="2024-09-23T00:16:03Z" finished-at="2024-09-23T00:16:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- stopTest -->
+      </class> <!-- utils.MyTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
